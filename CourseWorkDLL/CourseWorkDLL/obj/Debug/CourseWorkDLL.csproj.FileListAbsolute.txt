@@ -1,0 +1,10 @@
+D:\Temp\CourseWorkDLL\CourseWorkDLL\bin\Debug\CourseWorkDLL.dll
+D:\Temp\CourseWorkDLL\CourseWorkDLL\bin\Debug\CourseWorkDLL.pdb
+D:\Temp\CourseWorkDLL\CourseWorkDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\CourseWorkDLL\CourseWorkDLL\obj\Debug\CourseWorkDLL.dll
+D:\Temp\CourseWorkDLL\CourseWorkDLL\obj\Debug\CourseWorkDLL.pdb
+D:\Курсовая_работа\CourseWorkDLL\CourseWorkDLL\bin\Debug\CourseWorkDLL.dll
+D:\Курсовая_работа\CourseWorkDLL\CourseWorkDLL\bin\Debug\CourseWorkDLL.pdb
+D:\Курсовая_работа\CourseWorkDLL\CourseWorkDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Курсовая_работа\CourseWorkDLL\CourseWorkDLL\obj\Debug\CourseWorkDLL.dll
+D:\Курсовая_работа\CourseWorkDLL\CourseWorkDLL\obj\Debug\CourseWorkDLL.pdb

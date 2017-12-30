@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CourseWork_Graphical_interface_VB", "CourseWork_Graphical_interface_VB\CourseWork_Graphical_interface_VB.vbproj", "{8CBFBA7B-25A3-4DFF-9F10-6AAA540218C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CBFBA7B-25A3-4DFF-9F10-6AAA540218C3}.Debug|x86.ActiveCfg = Debug|x86
+		{8CBFBA7B-25A3-4DFF-9F10-6AAA540218C3}.Debug|x86.Build.0 = Debug|x86
+		{8CBFBA7B-25A3-4DFF-9F10-6AAA540218C3}.Release|x86.ActiveCfg = Release|x86
+		{8CBFBA7B-25A3-4DFF-9F10-6AAA540218C3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
